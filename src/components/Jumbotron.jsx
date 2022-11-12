@@ -6,12 +6,10 @@ export default function Jumbotron() {
     <div>
       <div className="py-24 px-6 md:px-16 max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2">
         <div>
-          <p
-            className="font-bold text-sm ml-6 text-gray-600"
-          >
+          <p className="font-bold text-sm ml-6 mb-2 text-gray-600">
             Welcoment to my portfolio website!
           </p>
-          <h1 className="text-4xl font-bold py-8">
+          <h1 className="text-4xl font-bold pb-8">
             Hey Folks, I'm
             <span className="text-amber-400 px-4">UI Specialist</span>
           </h1>
