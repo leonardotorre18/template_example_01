@@ -20,7 +20,7 @@ export default function Jumbotron() {
           </p>
           <div className="py-6 gap-3 flex flex-col sm:flex-row">
             <button className="button bg-gray-200 text-gray-600 flex items-center justify-center gap-2 hover:text-amber-400 transition-colors">
-              <BsFileEarmarkPerson className="min-w-min" />
+              <BsFileEarmarkPerson className="w-4 h-full" />
               Download Resume
             </button>
             <button className="button bg-gray-800 text-white hover:bg-amber-400 transition-colors">
